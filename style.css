@@ -39,14 +39,38 @@ h1{
     background-color: #14171f;
     min-height: 100px;
     float: left;
-    width:calc((100% / 3) - 20px); 
-    padding: 20px;
+    width:calc((100% / 3) - 30px); 
+    margin: 15px;
+    
+}
 
+.info{
+    float: left;
+    
 }
 
 
 .male img{
-    height: 80px;
+    height: 100px;
+    float: left;
+}
+
+h4{
+    color: white;
+    padding: 5px;
+    
+}
+
+h5{
+    color: white;
+    padding: 5px;
+    
+}
+
+h6{
+    color: #aaafe6;
+    padding: 5px;
+    
 }
 
 
